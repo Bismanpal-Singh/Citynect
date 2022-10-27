@@ -1,6 +1,6 @@
 # Cityride
 
-Here's the demo page as requested.
+Here's the demo page as requested. (Different images were used as there was no access to exact same images)
 Here are some screenshots too : 
 
 This is the Scrollable feed page : 
