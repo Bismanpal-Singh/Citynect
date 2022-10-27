@@ -16,7 +16,6 @@ class _HomeScreenState extends State<HomeScreen> {
     return SingleChildScrollView(
       child: Column(
           children: <Widget>[
-            Text("hello"),
       for(Post post in posts) Column(
         children: <Widget>[
         PostWidget(post: post),
